@@ -6,8 +6,6 @@ You are given an array A representing the number of bricks in each box. The goal
 
 Function Signature:
 
-python
-Copy code
 def solution(A):
     pass
 In this challenge, we need to implement the solution function that takes an array A and returns the minimum number of moves. A move involves taking one brick from a box and moving it to a neighboring box (left or right).
@@ -17,8 +15,6 @@ Given an array A of integers, find the maximum sum of two numbers whose digits a
 
 Function Signature:
 
-python
-Copy code
 def solution(A):
     pass
 For this challenge, we are tasked with implementing the solution function to find the maximum sum of two numbers from the array A such that the sum of their digits is equal.
@@ -28,8 +24,6 @@ Given an integer N, return a string of length N containing as many different low
 
 Function Signature:
 
-python
-Copy code
 def solution(N):
     pass
 In this challenge, we need to implement the solution function to generate a string of length N with as many different lowercase letters as possible. Each letter should occur an equal number of times in the string.
